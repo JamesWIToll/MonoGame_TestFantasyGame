@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQIHKgYa1ALqoLYbklcJdlajFXaG/qZ0X02z2aubPqEiUbQnJGHqDY36Zue5xSKNIB6sCk7dku7gC7t5l8Nxqw==",
+  "success": true,
+  "projectFilePath": "/home/wesley/Documents/MonoGame Projects/TestFantasyGame/TestFantasyGame.csproj",
+  "expectedPackageFiles": [
+    "/home/wesley/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/wesley/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/wesley/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/wesley/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/wesley/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.30/microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,495 @@
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/TestFantasyGame
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/TestFantasyGame.deps.json
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/TestFantasyGame.runtimeconfig.json
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/TestFantasyGame.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/TestFantasyGame.pdb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/MonoGame.Framework.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.csproj.AssemblyReference.cache
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.AssemblyInfoInputs.cache
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.AssemblyInfo.cs
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.csproj.CoreCompileInputs.cache
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.csproj.CopyComplete
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/refint/TestFantasyGame.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.pdb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.genruntimeconfig.cache
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/ref/TestFantasyGame.dll
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-Attack01.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-Attack02.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-Death.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-Hurt.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-Idle.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-shadow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-shadow_attack02.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-shadow_death.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc-Walk.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Orc/Orc.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Attack01.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Attack02.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Attack03.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Death.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Hurt.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Idle.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Shadow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Shadow_attack2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Shadow_death.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier-Walk.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Soldier/Soldier.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Fonts/UIFont.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree cut mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree cut nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree cut oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree cut sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree cut snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ancient tree snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/ant mound.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/anvil.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/appletree.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/arena snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/arena.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/baretree.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/berry bush apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/berry bush oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/berry bush sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/birch apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/birch dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/birch nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/birch oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/birch sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush aug.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush berries.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush flowers.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush jan.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush jun.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blackberry bush sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blocked cave.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blueberry bush apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blueberry bush oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/blueberry bush sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/boat.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/books.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/boulder snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/boulder.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/box.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/bush apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/bush dec snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/bush dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/bush mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/bush nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/bush oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/bush sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cactus.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/campfire ash.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/campfire embers.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/campfire fire.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/campfire.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/carrageen moss.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cassiterite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/caulerpa lentillifera.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cave up.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cave whirlpool.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cave.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/caveExit.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cedar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cedarcut.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charactite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charbush apr chars.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charbush apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charbush dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charbush mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charbush may chars.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charbush may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charbush nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charbush oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charging pad.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/charging pad2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cherry tree apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cherry tree dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cherry tree jul.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cherry tree jun.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cherry tree may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cherry tree nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cherry tree oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cherry tree sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/chromite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cinnabar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/coal ore.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/coconutpalm.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/constructing building 1.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/constructing building foundation.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper ore.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#e.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#en.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#ens.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#ensw.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#enw.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#es.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#esw.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#ew.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#n.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#ns.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#nsw.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#nw.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#s.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#sw.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire#w.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/copper wire.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/coral arena blocked.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/coral arena open.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/coral monster stem 2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/coral monster stem.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cracked boulder.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cracks.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/cracky boulder.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/dragontail.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/dryshrub.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/exit.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/flax apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/flax cut.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/flax feb.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/flax jul.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/flax mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/flax nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/flax planted.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/forge.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/forsythia apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/forsythia jun.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/forsythia may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/forsythia nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/forsythia oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/forsythia sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/fritillaria imperialis.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/galena.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/granite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/grass green.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hamster wheel generator.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hamster wheel generator2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/heartroot.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hematite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house avail.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house player.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house snowy avail.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house snowy player.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house2 avail.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house2 player.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house2 snowy avail.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house2 snowy player.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house2 snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/house2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree apr chars.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree oct chars.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree sep chars.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/hydra tree sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/iceberg ice.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/iceberg ocean.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/icespikes.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/landing tower construction.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/landing tower.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lava pond cooled dustgrass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lava pond cooled.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lava pond dustgrass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lava pond.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lilac dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lilac jul.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lilac jun purple.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lilac may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lilac oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/lilac sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/logs.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/loom.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/loot chest opened.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/loot chest.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/loot.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/maelstrom disturbed.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/maelstrom.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/melanterite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/minium.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/molybdenite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/mortar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/musa banana.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/musa.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/mushroom.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/niter.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/oats apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/oats aug.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/oats jun.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/oats may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/oats nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/oats planted.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/olive tree blossom.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/olive tree olives.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/olive tree.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/orange tree bare.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/orange tree blossom.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/orange tree oranges.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/orange tree.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/palm.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/pine bare snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/pine bare.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/pine deco snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/pine deco.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/pine snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/pine.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/pot.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/potted cactus.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/potted rose buds.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/potted rose dead.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/potted rose flowers.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/potted rose sapling.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/potted rose seeds.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/potted rose wilted.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/quartzite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/recycle bin with item.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/recycle bin.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/red pine snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/red pine.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/redthorn apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/redthorn jun.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/redthorn nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/redthorn oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/redthorn sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/reeds apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/reeds nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rose buds.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rose dead.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rose flowers.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rose planted.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rose sapling.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rose wilted.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rowan apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rowan aug.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rowan dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rowan jan.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rowan may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rowan nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rowan oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/rowan sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/Sargassum.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/savannahtree.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/scheelite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/school snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/school.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/seashell.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/shallow water.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/shop snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/shop.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/shrimps.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/sign.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/small willow chest.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/smoke signal ash pigeon.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/smoke signal ash.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/smoke signal.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/snow patch.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/spinning wheel.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/station snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/station.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/steppe farm.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/stick.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/stone pine.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/stone.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/swamp tree apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/swamp tree dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/swamp tree mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/swamp tree nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/swamp tree oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/swamp tree sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/table 1.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/table 2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/table 3.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/table 4.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/table housing.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree apr deco.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree dec deco snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree dec deco.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree dec snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree mar deco.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree may deco.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree nov deco.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree oct deco.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree sep deco.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tall tree sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tallgrass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tent 2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tent.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/Thorn dragon nest eggs.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/Thorn dragon nest.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/thornvine.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tiny platinum nugget.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree dec snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree dec.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree may pears.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/tree sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/truffle.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wall horisontal.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wall vertical.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wheat apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wheat jul.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wheat mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wheat may.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wheat nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wheat planted.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/whirlpool frozen.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/whirlpool.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/willow apr.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/willow chest.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/willow nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/willow oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/willowcut.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/wilted plants.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/windmill construction.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/windmill.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/winter orb bare.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/winter orb filling.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/winter orb ice chars.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/winter orb ice.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/winter orb net.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/winter orb snow chars.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/winter orb snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/winter orb.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/workshop snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/workshop.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Objects/yellowgrass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/algae green.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/basalt.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave coral black weakened.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave coral black.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave gravel 2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave gravel 3.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave gravel 4.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave gravel 5.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave gravel.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave ice.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave magma cold.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave magma.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave wall.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cave water stalagmite.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/caveCliff2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/caveCliff3.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/caveCliff4.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/caveCliff5.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cavewater.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/clay.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cliff ice.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cliff.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coldCaveGravel.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coldcliff.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/construction path snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/construction path.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coral black weakened.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coral black.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coral blue chars.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coral blue.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coral orange.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coralgreen.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coralred.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/coralyellow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/cyan grass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/darkCaveGravel.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/darkcliff.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/deepocean.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/dryland.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/dustgrass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/dustland.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/farmland.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/granite cliff.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/granite floor.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/granite tile.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/grass nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/grass oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/grass sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/grass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/gravel.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/higherland.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/highland arid.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/highland.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/ice.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/infested gravel.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/junglegrass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/landcoralblack.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/lilypad.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/loading.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/map tile city.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/map tile forest.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/map tile grass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/map tile mountain.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/map tile ocean.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/map tile sand.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/monsoongrass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/mountainfloor.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/mud.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/ocean.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/path snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/path.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/path2 snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/path2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/pebbles cave.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/pebbles snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/pebbles.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/permasnow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/quartzite cliff.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/quartzite floor.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/quartzite tile.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/sand ash.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/sand orange.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/sand white.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/sand.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/savannah.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/shallowwater.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/snow.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/stone tile.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/swamp grass mar.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/swamp grass nov.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/swamp grass oct.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/swamp grass sep.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/taidra.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/taiga.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/thornfloor damp.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/thornfloor.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/tundra snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/tundra.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/water.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/wood tile.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/wood wall.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/woodpath snowy.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/woodpath.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/woodpath2.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/yellow grass.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/GrassJackie.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/GrassFlowerJackie.xnb

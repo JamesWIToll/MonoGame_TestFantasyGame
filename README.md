@@ -14,7 +14,9 @@ https://codespree.itch.io/top-down-tiled-rpg-assets by CodeSpree on itch.io
 
 the following files came from my wonderful partner Jackie Tamayao who was so excited to
 see me draw tiles to the screen that they wanted to contribute some tiles:
+
 Content/2d/Tiles/GrassFlowerJackie.jpg
+
 Content/2d/Tiles/GrassJackie.jpg
 
 ## How To Play This Demo Game

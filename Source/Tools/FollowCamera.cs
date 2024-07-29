@@ -1,4 +1,9 @@
+/**
+The following Camera class is my version of a similar camera object to the one here -
+https://community.monogame.net/t/simple-2d-camera/9135 
+by user spool
 
+*/
 
 using System;
 using Microsoft.Xna.Framework;

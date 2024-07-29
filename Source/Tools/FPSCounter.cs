@@ -1,6 +1,8 @@
 /**
 Code below is not my own - it was found from this site - https://community.monogame.net/t/a-simple-monogame-fps-display-class/10545
 by user willmotil
+
+I am using this code for debugging/optimization purposes.
 */
 
 

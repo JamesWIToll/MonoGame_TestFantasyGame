@@ -30,7 +30,7 @@ public class WorldObj {
 
         player = new Player(new Vector2(spawnPos.X, spawnPos.Y));
         interactableEntities.Add(player);
-        for (int i = 0; i < 10; i++){
+        for (int i = 0; i < 5; i++){
             interactableEntities.Add(new Enemy(new Vector2(spawnPos.X-(20*i), spawnPos.Y-(20*i)), player));
         }
 

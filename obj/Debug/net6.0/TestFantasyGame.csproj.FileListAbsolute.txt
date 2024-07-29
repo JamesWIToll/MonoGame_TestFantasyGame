@@ -493,3 +493,4 @@
 /home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/yellow grass.xnb
 /home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/GrassJackie.xnb
 /home/wesley/Documents/MonoGame Projects/TestFantasyGame/bin/Debug/net6.0/Content/2d/Tiles/GrassFlowerJackie.xnb
+/home/wesley/Documents/MonoGame Projects/TestFantasyGame/obj/Debug/net6.0/TestFantasyGame.sourcelink.json

@@ -1,8 +1,5 @@
 # Test Fantasy Game
-## This project is a kind of testing grounds for learning the Monogame C# game dev framework (https://monogame.net/).
-## A lot of the content of this project is bits and pieces from accross the web that I reworked and put together 
-## into my own project to learn how things work. If any of my code pulls heavily from something found elsewhere
-## I will credit the place where I found the original code.
+## This project is a kind of testing grounds for learning the Monogame C# game dev framework (https://monogame.net/). A lot of the content of this project is bits and pieces from accross the web that I reworked and put together into my own project to learn how things work. If any of my code pulls heavily from something found elsewhere I will credit the place where I found the original code.
 
 
 ## Asset Credits
@@ -32,14 +29,12 @@ Windows:
 bin/Release/win-x64/publish/TestFantasyGame.exe
 
 ## Controls
-W - Move Up
-A - Move Left
-S - Move Down
-D - Move Right
+W, A, S, D - Movement
 
 J - Attack
 
 Down arrow key - Camera Zoom out
+
 Up Arrow Key   - Camera Zoom In
 
 ## Tips 
